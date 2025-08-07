@@ -1,9 +1,9 @@
 package com.reon.chat_backend.mapper;
 
-import com.reon.chat_backend.dto.UserProfileDTO;
-import com.reon.chat_backend.dto.UserRequestDTO;
-import com.reon.chat_backend.dto.UserResponseDTO;
-import com.reon.chat_backend.model.User;
+import com.reon.chat_backend.dtos.UserProfileDTO;
+import com.reon.chat_backend.dtos.UserRequestDTO;
+import com.reon.chat_backend.dtos.UserResponseDTO;
+import com.reon.chat_backend.models.User;
 
 public class UserMapper {
     // Incoming data from frontend gets saved in database
