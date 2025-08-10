@@ -1,8 +1,8 @@
 package com.reon.chat_backend.mapper;
 
-import com.reon.chat_backend.dtos.UserProfileDTO;
-import com.reon.chat_backend.dtos.UserRequestDTO;
-import com.reon.chat_backend.dtos.UserResponseDTO;
+import com.reon.chat_backend.dtos.user.UserProfileDTO;
+import com.reon.chat_backend.dtos.user.UserRequestDTO;
+import com.reon.chat_backend.dtos.user.UserResponseDTO;
 import com.reon.chat_backend.models.User;
 
 public class UserMapper {

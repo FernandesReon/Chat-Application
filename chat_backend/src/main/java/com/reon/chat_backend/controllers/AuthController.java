@@ -1,8 +1,8 @@
 package com.reon.chat_backend.controllers;
 
-import com.reon.chat_backend.dtos.UserLoginDTO;
-import com.reon.chat_backend.dtos.UserRequestDTO;
-import com.reon.chat_backend.dtos.UserResponseDTO;
+import com.reon.chat_backend.dtos.user.UserLoginDTO;
+import com.reon.chat_backend.dtos.user.UserRequestDTO;
+import com.reon.chat_backend.dtos.user.UserResponseDTO;
 import com.reon.chat_backend.jwt.JwtResponse;
 import com.reon.chat_backend.services.UserService;
 import jakarta.servlet.http.Cookie;

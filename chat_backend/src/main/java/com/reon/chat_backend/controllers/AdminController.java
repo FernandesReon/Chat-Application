@@ -1,6 +1,6 @@
 package com.reon.chat_backend.controllers;
 
-import com.reon.chat_backend.dtos.UserResponseDTO;
+import com.reon.chat_backend.dtos.user.UserResponseDTO;
 import com.reon.chat_backend.services.AdminService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

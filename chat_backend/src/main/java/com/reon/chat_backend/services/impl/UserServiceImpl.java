@@ -1,9 +1,9 @@
 package com.reon.chat_backend.services.impl;
 
-import com.reon.chat_backend.dtos.UserLoginDTO;
-import com.reon.chat_backend.dtos.UserProfileDTO;
-import com.reon.chat_backend.dtos.UserRequestDTO;
-import com.reon.chat_backend.dtos.UserResponseDTO;
+import com.reon.chat_backend.dtos.user.UserLoginDTO;
+import com.reon.chat_backend.dtos.user.UserProfileDTO;
+import com.reon.chat_backend.dtos.user.UserRequestDTO;
+import com.reon.chat_backend.dtos.user.UserResponseDTO;
 import com.reon.chat_backend.exceptions.*;
 import com.reon.chat_backend.jwt.JwtResponse;
 import com.reon.chat_backend.jwt.JwtUtils;
